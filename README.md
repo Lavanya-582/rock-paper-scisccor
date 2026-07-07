@@ -2,7 +2,7 @@
 # Rock Paper Scissors ✊✋✌️
 A simple Rock-Paper-Scissors game built with vanilla HTML, CSS, and JavaScript. Play against the CPU, track scores, and view match history.
 
-**Live Demo:**  
+**Live Demo:** git clone https://github.com/yourusername/rock-paper-scissors.git 
 
 ### Features 
 1. Play vs CPU- CPU chooses randomly using `Math.random()`
@@ -19,4 +19,4 @@ A simple Rock-Paper-Scissors game built with vanilla HTML, CSS, and JavaScript. 
 ### How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+  git clone https://github.com/yourusername/rock-paper-scissors.git
